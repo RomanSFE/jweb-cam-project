@@ -1,0 +1,35 @@
+/* Web cam CSS */
+.app-mainpage-section {
+    position: relative;
+}
+.app-mainpage-section button {
+    background-color: #2B8FED;
+    border: none;
+    width: 245px;
+    height: 51px;
+    color: #f9f9f9;
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 20px;
+    position: absolute;
+    top: 30px;
+}
+button.downbtnn {
+    margin-top: 70px;
+    width: 245px;
+    height: 51px;
+    text-align: center;
+    font-size: 18px;
+}
+/* Recording text */
+.recording-textt h3 span {
+    color: #EB2826;
+    font-size: 15px;
+}
+.recording-textt h3 {
+    font-size: 19px;
+    margin-right: 15%;
+}
+.recording-textt {
+    margin-top: 1px;
+}
